@@ -15,15 +15,13 @@
   
   <img src="https://komarev.com/ghpvc/?username=shlok-dadhich&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile views"/>
 
-  <h1>
-    Hi there, I'm Shlok Dadhich
+  <h1>    Hi there, I'm Shlok Dadhich
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=A+Passionate+AI+%26+ML+Engineer+from+India;Working+on+Deep+Learning,+NLP+%26+Computer+Vision;Always+learning+and+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4f58de&center=true&vCenter=true&width=500&lines=A+Passionate+AI+%26+ML+Engineer+from+India;Working+on+Deep+Learning,+NLP+%26+Computer+Vision;Always+learning+and+growing" alt="Typing SVG" />
 </div>
 
 ---
